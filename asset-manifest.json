@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.48de8f83.css",
-    "main.js": "/static/js/main.a8f1c9ab.js",
+    "main.js": "/static/js/main.1316747a.js",
     "static/media/bluetooth-icon.svg": "/static/media/bluetooth-icon.c05bb6fba5e1386d7def2dc321f59b0a.svg",
     "index.html": "/index.html",
     "main.48de8f83.css.map": "/static/css/main.48de8f83.css.map",
-    "main.a8f1c9ab.js.map": "/static/js/main.a8f1c9ab.js.map"
+    "main.1316747a.js.map": "/static/js/main.1316747a.js.map"
   },
   "entrypoints": [
     "static/css/main.48de8f83.css",
-    "static/js/main.a8f1c9ab.js"
+    "static/js/main.1316747a.js"
   ]
 }
